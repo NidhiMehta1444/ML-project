@@ -26,7 +26,7 @@ class DataIngestion:
     def initiate_data_ingestion(self):
         try:
             ##Reading the data from postgresql
-            df=read_postgresql_data()
+            df=pd.read_csv(os.path.join('notebook','data','raw.csv'))
             logging.info("Reading completed Postgresql database")
 
             os.makedirs(os.path.dirname(self.ingestion_config.raw_data_path),exist_ok=True)
