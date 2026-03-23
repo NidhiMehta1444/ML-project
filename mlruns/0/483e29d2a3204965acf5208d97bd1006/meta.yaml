@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Projects/ML%20Project/mlruns/0/483e29d2a3204965acf5208d97bd1006/artifacts
+end_time: 1773894885024
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 483e29d2a3204965acf5208d97bd1006
+run_name: invincible-sheep-302
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773894884903
+status: 4
+tags: []
+user_id: postgres

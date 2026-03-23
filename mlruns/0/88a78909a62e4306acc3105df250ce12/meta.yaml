@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Projects/ML%20Project/mlruns/0/88a78909a62e4306acc3105df250ce12/artifacts
+end_time: 1773896084929
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 88a78909a62e4306acc3105df250ce12
+run_name: blushing-pig-305
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773896075305
+status: 3
+tags: []
+user_id: postgres

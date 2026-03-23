@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Projects/ML%20Project/mlruns/0/9f6478da3f984addbea98f8f6f1cf4f0/artifacts
+end_time: 1774235593477
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9f6478da3f984addbea98f8f6f1cf4f0
+run_name: suave-cub-101
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774235584175
+status: 3
+tags: []
+user_id: postgres
